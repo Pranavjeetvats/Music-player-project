@@ -36,7 +36,7 @@ The **Music System Platform** is a web-based application designed to bring music
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/music-collab-platform.git
+   git clone https://github.com/Pranavjeetvats/Music-player-project.git
    ```
 2. Navigate to the project directory:
    ```bash
